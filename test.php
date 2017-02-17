@@ -1,7 +1,7 @@
 <?PHP
 
 
-echo 'xxxxxxxxdsfdfdsfxx';
+echo "xxxxxxxxdsfdfdsfxx";
 
 
 ?>
